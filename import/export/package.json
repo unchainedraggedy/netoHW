@@ -1,0 +1,19 @@
+{
+  "name": "import-export",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unchainedraggedy/netoHW.git#master"
+  },
+  "author": "Ashura Muslimova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unchainedraggedy/netoHW/issues"
+  },
+  "homepage": "https://github.com/unchainedraggedy/netoHW/tree/master#readme",
+  "description": ""
+}
