@@ -1,0 +1,19 @@
+{
+  "name": "@unchainedraggedy/token",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unchainedraggedy/ajss.git"
+  },
+  "author": "Ashura Muslimova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unchainedraggedy/ajss/issues"
+  },
+  "homepage": "https://github.com/unchainedraggedy/ajss#readme",
+  "description": ""
+}
